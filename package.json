@@ -1,0 +1,16 @@
+{
+  "name": "partial-x",
+  "description": "A functional programming helper to be able to partial one or more arguments to any argument position of a given function",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "version": "0.0.2",
+  "author": {
+    "name": "interacsean"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "license": "ISC"
+}
